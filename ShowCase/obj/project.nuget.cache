@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0yw1PdHbUYOsnreS8VetKum6RswZLzPVY13kNjxaSFlTsoWfxxliFAgHmNzHGbzpAU8WqCnGyVO0rEFBp8eh0A==",
+  "success": true,
+  "projectFilePath": "/home/lesego/student_work/ClassLibraryProjects/ShowCase/ShowCase.csproj",
+  "expectedPackageFiles": [
+    "/home/lesego/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lesego/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/lesego/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.deps.json
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.dll
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/bin/Release/net6.0/StringLibrary.pdb
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.AssemblyReference.cache
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfoInputs.cache
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.AssemblyInfo.cs
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.dll
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/refint/StringLibrary.dll
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/StringLibrary.pdb
+/home/lesego/student_work/ClassLibraryProjects/StringLibrary/obj/Release/net6.0/ref/StringLibrary.dll
